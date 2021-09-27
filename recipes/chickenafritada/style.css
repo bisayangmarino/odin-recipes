@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    font-style: oblique;
+    text-decoration: underline;
+    font-family: 'Roboto', sans-serif;
+    font-size: 48px;
+}
+
+h1 span {
+    background-color: darkgoldenrod;
+}
+
+img {
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    margin-left: 1.5ch;
+    margin-right: 1.5ch;
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    text-decoration: underline;
+}
+
+p,ul,ol {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+}
+
+p {
+    margin-left: 5ch;
+}
+
+ul,ol {
+    font-style: italic;
+    margin-left: 2.5ch;
+}

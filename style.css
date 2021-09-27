@@ -1,0 +1,15 @@
+h1  {
+    line-height: normal;
+    color: black;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+}
+
+h1 span {
+        background-color: bisque;
+}
+li {
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+    font-size: medium;
+    text-align: center;
+}
