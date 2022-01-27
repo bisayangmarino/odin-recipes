@@ -1,1 +1,1 @@
-The project I am currently working on is about creating a basic recipe website. I was able to complete the task through application of my knowledge about HTML concepts. It took me some time to feel confident enough to submit my work. But in the end, it feels totally worth the effort.
+The project I am currently working on is about creating a basic recipe website. I was able to complete the task through application of my knowledge about HTML and CSSconcepts. It took me some time to feel confident enough to submit my work. But in the end, it feels totally worth the effort.
